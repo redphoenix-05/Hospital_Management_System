@@ -1,0 +1,8 @@
+Arfeen
+5003
+Heart_Attack
+Serious
+Hakim
+5004
+Fever
+Normal
